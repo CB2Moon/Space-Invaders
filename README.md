@@ -41,3 +41,13 @@ Players mainly interact with the game by moving _non-player entities_ on the gri
 *   **"D"**: All non-player entities rotate **right** one square.
 *   **"SPACE"**: Shoot a **destroy** shot.
 *   **"ENTER":** Shoot a **collect** shot.
+
+### Play
+
+To play the game, run _**space\_invaders.py**_.
+
+To play a different version, change `TASK` to the version you'd like to play in the following code in _**space\_invaders.py**_
+
+```python
+def start_game(root, TASK=1)
+```
