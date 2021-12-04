@@ -1,4 +1,4 @@
-from a3_support import *
+from space_invader_support import *
 import tkinter as tk
 import random
 from tkinter import messagebox
